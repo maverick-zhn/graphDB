@@ -16,5 +16,7 @@
 * http://www.tutorialspoint.com/hbase/hbase_installation.htm
 
 ####Docker
-https://docs.docker.com/windows/
+* https://docs.docker.com/windows/
 
+####Research Notes
+* https://paper.dropbox.com/doc/01.15-Research-Meeting-UrnB7NKpMuqCjFxOoqebQ
