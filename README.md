@@ -20,7 +20,7 @@
 
 ####Research Notes
 * https://paper.dropbox.com/doc/01.15-Research-Meeting-UrnB7NKpMuqCjFxOoqebQ
-
+* http://www.tutorialspoint.com/dbms/dbms_indexing.htm
 
 ####HBase
 https://www.youtube.com/watch?v=KZps2dzr_u4
