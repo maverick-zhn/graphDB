@@ -23,7 +23,9 @@
 * http://www.tutorialspoint.com/dbms/dbms_indexing.htm
 
 ####HBase
-https://www.youtube.com/watch?v=KZps2dzr_u4
+* https://www.youtube.com/watch?v=KZps2dzr_u4
+* http://www.cloudera.com/documentation/archive/cdh/4-x/4-3-0/CDH4-Installation-Guide/cdh4ig_topic_20_5.html
+* http://blog.cloudera.com/blog/2009/08/hadoop-default-ports-quick-reference/
 
 ####Tools
 * http://gremlindocs.spmallette.documentup.com/#path
