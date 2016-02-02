@@ -33,7 +33,7 @@
 * https://tinkerpop.incubator.apache.org/
 * 
 
-###Hadoop, HDFS and HBase installation
+####Hadoop, HDFS and HBase installation
 - extra
 - getting root
 sudo -i
@@ -41,12 +41,18 @@ sudo -i
 
 
 sudo apt-get update
+
 sudo apt-get install default-jdk
+
 -testing
 java -version
+
 java version "1.7.0_91"
+
 sudo addgroup hadoop
+
 sudo adduser --ingroup hadoop hduser
+
 default
 sudo apt-get install ssh
 --testing
