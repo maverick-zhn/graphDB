@@ -26,6 +26,10 @@
 * https://www.youtube.com/watch?v=KZps2dzr_u4
 * http://www.cloudera.com/documentation/archive/cdh/4-x/4-3-0/CDH4-Installation-Guide/cdh4ig_topic_20_5.html
 * http://blog.cloudera.com/blog/2009/08/hadoop-default-ports-quick-reference/
+* http://archive.cloudera.com/cdh5/cdh/5/hbase-0.98.6-cdh5.3.1/book/tracing.html
+* https://www.cloudera.com/documentation/enterprise/5-3-x/topics/search_hbase_batch_indexer.html
+* https://hbase.apache.org/0.94/book.html#tracing
+* https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/Tracing.html
 
 ####Tools
 * http://gremlindocs.spmallette.documentup.com/#path
