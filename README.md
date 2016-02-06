@@ -36,3 +36,6 @@
 * http://sql2gremlin.com/
 * https://tinkerpop.incubator.apache.org/
 * 
+
+G*
+* http://www.cs.albany.edu/~gstar/publications
