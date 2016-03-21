@@ -35,7 +35,15 @@
 * http://gremlindocs.spmallette.documentup.com/#path
 * http://sql2gremlin.com/
 * https://tinkerpop.incubator.apache.org/
-* 
+
+###Cytoscape
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3548679/
+* https://github.com/idekerlab/cyjs-export-full
+* http://apps.cytoscape.org/apps/with_tag/scripting
+* https://stackoverflow.com/questions/33592825/integrating-titandb-with-sigma-js/33650294
+* https://gephi.org/
+* http://gremlindocs.spmallette.documentup.com/
+* [html5 framework] https://github.com/4ndr01d3/biosual
 
 ####G*
 * http://www.cs.albany.edu/~gstar/publications
