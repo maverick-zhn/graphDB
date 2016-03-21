@@ -45,6 +45,7 @@
 * http://gremlindocs.spmallette.documentup.com/
 * [html5 framework] https://github.com/4ndr01d3/biosual
 * http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-129
+* http://genome.cshlp.org/content/13/11/2498
 
 ####G*
 * http://www.cs.albany.edu/~gstar/publications
