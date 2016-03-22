@@ -47,5 +47,9 @@
 * http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-129
 * http://genome.cshlp.org/content/13/11/2498
 
+###Gremlin
+* http://www.gremlinbin.com/
+* 
+
 ####G*
 * http://www.cs.albany.edu/~gstar/publications
