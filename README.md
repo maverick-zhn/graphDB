@@ -46,6 +46,13 @@
 * [html5 framework] https://github.com/4ndr01d3/biosual
 * http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-129
 * http://genome.cshlp.org/content/13/11/2498
+* 
+###Visualizer
+* https://github.com/graphstream/gs-gephi/wiki/JSONStream-Manual
+* http://gremlindocs.spmallette.documentup.com/
+* http://www.programcreek.com/java-api-examples/index.php?api=com.tinkerpop.gremlin.groovy.Gremlin
+* http://grepcode.com/snapshot/repo1.maven.org/maven2/com.tinkerpop.gremlin/gremlin-java/2.6.0
+* https://github.com/graphstream
 
 ###Gremlin
 * http://www.gremlinbin.com/
