@@ -60,3 +60,12 @@
 
 ####G*
 * http://www.cs.albany.edu/~gstar/publications
+* 
+###Meeting
+* https://networkx.github.io/
+* https://networkx.readthedocs.org/en/networkx-1.11/reference/generated/networkx.algorithms.cluster.triangles.html
+* https://github.com/datastax/nodejs-driver
+* https://github.com/lbdremy/solr-node-client
+* https://plot.ly/ipython-notebooks/network-graphs/
+* https://www.wakari.io/sharing/bundle/nvikram/Basics%20of%20Networkx?has_login=False
+* https://github.com/getify/You-Dont-Know-JS
