@@ -56,11 +56,10 @@
 
 ###Gremlin
 * http://www.gremlinbin.com/
-* 
 
 ####G*
 * http://www.cs.albany.edu/~gstar/publications
-* 
+
 ###Meeting
 * https://networkx.github.io/
 * https://networkx.readthedocs.org/en/networkx-1.11/reference/generated/networkx.algorithms.cluster.triangles.html
@@ -69,3 +68,6 @@
 * https://plot.ly/ipython-notebooks/network-graphs/
 * https://www.wakari.io/sharing/bundle/nvikram/Basics%20of%20Networkx?has_login=False
 * https://github.com/getify/You-Dont-Know-JS
+* http://code.tutsplus.com/tutorials/writing-nodejs-addons--cms-21771
+* https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
+* https://memcached.org/about
