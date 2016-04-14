@@ -71,3 +71,7 @@
 * http://code.tutsplus.com/tutorials/writing-nodejs-addons--cms-21771
 * https://en.wikipedia.org/wiki/V8_(JavaScript_engine)
 * https://memcached.org/about
+* https://github.com/ThrusterDB/thruster-javascript-driver
+* https://github.com/mastayoda/olympus/blob/olympus01/titan-core/src/main/java/com/thinkaurelius/titan/diskstorage/Backend.java
+* https://docs.google.com/presentation/d/1svIR7X8DKIYyHi4x4KTKWf2WaNvm5BPfZbH5v7LFPBk/edit?ts=570574bb#slide=id.g12948d735f_0_174
+* 
