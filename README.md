@@ -46,7 +46,7 @@
 * [html5 framework] https://github.com/4ndr01d3/biosual
 * http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-129
 * http://genome.cshlp.org/content/13/11/2498
-* 
+
 ###Visualizer
 * https://github.com/graphstream/gs-gephi/wiki/JSONStream-Manual
 * http://gremlindocs.spmallette.documentup.com/
@@ -74,4 +74,4 @@
 * https://github.com/ThrusterDB/thruster-javascript-driver
 * https://github.com/mastayoda/olympus/blob/olympus01/titan-core/src/main/java/com/thinkaurelius/titan/diskstorage/Backend.java
 * https://docs.google.com/presentation/d/1svIR7X8DKIYyHi4x4KTKWf2WaNvm5BPfZbH5v7LFPBk/edit?ts=570574bb#slide=id.g12948d735f_0_174
-* 
+* http://techcrunch.com/2016/04/12/datastax-adds-graph-databases-to-enterprise-cassandra-product-set/
