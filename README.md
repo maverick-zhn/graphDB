@@ -75,3 +75,5 @@
 * https://github.com/mastayoda/olympus/blob/olympus01/titan-core/src/main/java/com/thinkaurelius/titan/diskstorage/Backend.java
 * https://docs.google.com/presentation/d/1svIR7X8DKIYyHi4x4KTKWf2WaNvm5BPfZbH5v7LFPBk/edit?ts=570574bb#slide=id.g12948d735f_0_174
 * http://techcrunch.com/2016/04/12/datastax-adds-graph-databases-to-enterprise-cassandra-product-set/
+* http://www.thrusterdb.com/
+* https://www.reddit.com/r/futurology
